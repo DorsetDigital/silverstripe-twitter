@@ -1,7 +1,7 @@
 {
 	"name": "tractorcow/silverstripe-twitter",
 	"description": "Simple Twitter feed for Silverstripe",
-	"type": "silverstripe-module",
+	"type": "silverstripe-vendormodule",
 	"keywords": ["silverstripe", "twitter", "widget"],
 	"license": "BSD-3-Clause",
 	"authors": [
