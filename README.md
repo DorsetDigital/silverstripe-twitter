@@ -70,7 +70,7 @@ Each tweet object has the following properties:
 
 To use SSL on inserted media (prevents mixed content warnings on SSL websites), add to config.yml:
 ```yml
-TwitterService:
+TractorCow\Twitter\Services\TwitterService:
   use_https: true
 ```
 
